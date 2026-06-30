@@ -12,7 +12,7 @@ import requests
 # Backend Configuration
 # ==========================================================
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://patient-health-dashboard-nf7q.onrender.com"
 
 TIMEOUT = 60
 
