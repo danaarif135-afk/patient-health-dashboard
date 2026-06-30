@@ -225,6 +225,18 @@ Full interactive documentation is available via Swagger at `/docs` once the back
 
 ---
 
+## 🌐 Deployment
+
+The Patient-Centric Dashboard is deployed and can be accessed using the following links.
+
+| Service | URL |
+|----------|-----|
+| 🖥 **Frontend (Streamlit Dashboard)** | [https://your-frontend-url.onrender.com](https://patient-health-dashboard-pj29reukxgbgsvavasz9b5.streamlit.app/) |
+| ⚙️ **Backend (FastAPI API)** | [https://your-backend-url.onrender.com](https://patient-health-dashboard-nf7q.onrender.com) |
+
+
+> **Note:** Since the application is hosted on Render's free tier, the first request after a period of inactivity may take 30–60 seconds while the services wake up.
+
 ## 👥 Team
 
 **MedTech Innovators**
